@@ -1,0 +1,21 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Local build products and diagnostics
+*.app/
+*.dSYM/
+*.xcarchive/
+*.xcresult/
+*.log
+*.pcap
+*.pcapng
+__pycache__/
+.env
+.env.*
+*.p12
+*.pfx
+*.mobileprovision
+*.keychain-db
